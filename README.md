@@ -51,13 +51,10 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 
 ## 📊 OBSERVATION AND CALCULATION
-
-- 
-Parameter of given fiber are,
-A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
-From fig. shows only 4 LP modes propagates.
-Total number of modes = V2 / 2 = 4.912 / 2
+![WhatsApp Image 2025-11-16 at 10 06 38_a96d4218](https://github.com/user-attachments/assets/531f23c8-acb3-4292-b402-e37249b810ae)
 
 ---
-## Tabulation
+
 ## Result
+The study successfully achieved the aim by observing the lower-order Linearly Polarized (LP) modes of the fiber. The Single Mode Fiber output was examined, showing the fundamental 
+LP01 mode (a single circular spot) and higher-order LP modes (patterns with two, three, and four lobes) when the coupling alignment was slightly adjusted.
