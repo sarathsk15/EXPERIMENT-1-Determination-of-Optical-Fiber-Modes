@@ -48,6 +48,8 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 10. Replace with single mode fiber patch cord. Observe blur patterns of LP modes (e.g., single lobe, two lobes, etc.) by fine-tuning the coupler screws.
 
 ---
+## DIAGRAM
+<img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/7c4fcf4e-59b9-474d-9afe-536aa167f615" />
 
 
 ## 📊 OBSERVATION AND CALCULATION
